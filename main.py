@@ -3,6 +3,11 @@ from typing import Dict, List
 
 import json
 
+class Bill(BaseModel):
+    kwota: float
+    data_platnosci: str
+    typ_rachunku: str
+    mieszkanie: str
 
 class Parameters(BaseModel):
     apartments_json_path: str = 'data/apartments.json'

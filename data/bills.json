@@ -1,0 +1,20 @@
+{
+    "bill-1": {
+        "name": "bill-1",
+        "kwota": "1500.00",
+        "data_platnosci": "09/03/2026",
+        "typ_rachunku": "x",
+        "mieszkanie": "1a"
+
+        
+    },
+    "bill-2": {
+        "name": "bill-2",
+        "kwota": "1500.00",
+        "data_platnosci": "08/03/2026",
+        "typ_rachunku": "y",
+        "mieszkanie": "31"
+
+        
+    }
+}
